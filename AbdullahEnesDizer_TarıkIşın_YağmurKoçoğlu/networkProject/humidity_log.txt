@@ -1,0 +1,6 @@
+Oca 07, 2024 11:00:10 ÖS SensorHandler humiditySensor
+INFO: Humidity Sensor - Value: 85,84 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:11 ÖS SensorHandler humiditySensor
+INFO: Humidity Sensor - Value: 82,71 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:15 ÖS SensorHandler humiditySensor
+INFO: Humidity Sensor - Value: 83,19 - Timestamp: 07/01/2024 - 23:00

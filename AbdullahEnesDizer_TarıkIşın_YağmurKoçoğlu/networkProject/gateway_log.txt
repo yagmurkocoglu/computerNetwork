@@ -1,0 +1,12 @@
+Oca 07, 2024 11:00:06 ÖS SensorHandler gateway
+INFO: Handshake with Server successful
+Oca 07, 2024 11:00:06 ÖS SensorHandler sendAlive
+INFO: Humidity Sensor - ALIVE message sent at: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:09 ÖS SensorHandler sendAlive
+INFO: Humidity Sensor - ALIVE message sent at: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:12 ÖS SensorHandler sendAlive
+INFO: Humidity Sensor - ALIVE message sent at: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:15 ÖS SensorHandler sendAlive
+INFO: Humidity Sensor - ALIVE message sent at: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:18 ÖS SensorHandler sendAlive
+INFO: Humidity Sensor - ALIVE message sent at: 07/01/2024 - 23:00

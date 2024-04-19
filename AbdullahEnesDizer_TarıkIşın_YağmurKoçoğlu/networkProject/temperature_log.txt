@@ -1,0 +1,28 @@
+Oca 07, 2024 11:00:06 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 21,59 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:06 ÖS SensorHandler processTcpData
+INFO: Gateway - Received Temperature Data: 21.59273895329666, Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:07 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 27,47 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:08 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 28,32 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:09 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 27,25 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:10 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 20,66 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:11 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 25,45 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:12 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 23,28 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:13 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 20,10 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:14 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 24,11 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:15 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 20,54 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:16 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 27,40 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:17 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 20,66 - Timestamp: 07/01/2024 - 23:00
+Oca 07, 2024 11:00:18 ÖS SensorHandler temperatureSensor
+INFO: Temperature Sensor - Value: 25,23 - Timestamp: 07/01/2024 - 23:00
